@@ -19,7 +19,7 @@ public class Quanlycoffe extends javax.swing.JFrame {
         setLocationRelativeTo(null);
         
     }
-    //Logout function
+
     void Logout(){
         this.dispose();
         new dangnhap().setVisible(true);
